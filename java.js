@@ -1,5 +1,5 @@
 function doIt(){
-var color = "red";
+var color = "black";
 var id = document.getElementById('body');
 id.style.backgroundColor = ""+color+"";  
 }
