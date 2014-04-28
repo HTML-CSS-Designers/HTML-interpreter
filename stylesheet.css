@@ -60,3 +60,20 @@ ender {
 	margin: auto;
 	resize: none;
 }
+#damack2 {
+	width: 76em;
+	border: 1px solid gray;
+	background-color: #d3d3d3;
+	height: 20em;
+	border-radius: 15px;
+	display: block;
+	margin: auto;
+	resize: none;
+}
+damax {
+	color: #333;
+	font-size: 15pt;
+	text-align: center;
+    display: block;
+    margin: auto;
+}
